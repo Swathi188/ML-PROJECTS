@@ -12,6 +12,7 @@ https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demograph
 
 ## Columns
 
+
 Diabetic:	Whether the insured person is diabetic or not. (Boolean)
 Children:	Number of children of the insured person. (Integer)
 Smoker:	Whether the insured person is a smoker or not. (Boolean)
